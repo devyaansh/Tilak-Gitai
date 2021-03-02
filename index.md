@@ -1,11 +1,17 @@
 ## Hi.
 
-I am a Maestro painter, My awards are:                 Known as : Tilak Gitai
-Padam Shri by the president of India-2017          Mother's Name: Late Shri Manfool Devi
-Shilp guru by the president of India-2007          Father's Name: Late Shri Ram Gopal Agrawal
-National award by the president of India-1982           Birthday: 26th September 1949
-International Crafts award-2019                       Place from: Jaipur, Rajasthan                
+I am a Maestro painter, My awards are:                 
+Padam Shri by the president of India-2017          
+Shilp guru by the president of India-2007          
+National award by the president of India-1982           
+International Crafts award-2019                                       
 
+Known as : Tilak Gitai
+Mother's Name: Late Shri Manfool Devi
+Father's Name: Late Shri Ram Gopal Agrawal
+     Birthday: 26th September 1949
+   Place from: Jaipur, Rajasthan
+   
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
