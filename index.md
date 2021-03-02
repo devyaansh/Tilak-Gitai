@@ -1,8 +1,10 @@
 ## Hi.
 
-You can use the [editor on GitHub](https://github.com/devyaansh/Tilak-Gitai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Maestro painter, My awards are:                 Known as : Tilak Gitai
+Padam Shri by the president of India-2017          Mother's Name: Late Shri Manfool Devi
+Shilp guru by the president of India-2007          Father's Name: Late Shri Ram Gopal Agrawal
+National award by the president of India-1982           Birthday: 26th September 1949
+International Crafts award-2019                       Place from: Jaipur, Rajasthan                
 
 ### Markdown
 
