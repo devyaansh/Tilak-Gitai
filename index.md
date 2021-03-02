@@ -68,4 +68,4 @@ Adress - E-5, Gokhale Marg, C-Scheme
 <br>
 Jaipur-302001 Rajasthan - INDIA.
 <br>
-Tel:- +91 1412372101 Mobile:-+91 9314149883
+Tel:- +91 1412372101; Mobile:-+91 9314149883
