@@ -13,7 +13,7 @@ Birthday: 26th September 1949;
 Place from: Jaipur, Rajasthan;
    
 ### My Skills
-#Painting
+<h3>Painting</h2>
 
 ### Jekyll Themes
 
