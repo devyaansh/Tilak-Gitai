@@ -58,6 +58,10 @@ Love drawing as much as I do? Let's talk about how awesome it is! We can do pain
 <br>
 <a href="https://api.whatsapp.com/send/?phone=9314149883&text&app_absent=0">Message Me on Whatsapp?</a>
 <br>
+<a href="https://www.facebook.com/profile.php?id=100005243625519">Follow me on facebook</a>
+<br>
+<a href="https://twitter.com/TilakGitai">Follow me on twitter</a>
+<br>
 My Contacts:
 <br>
 Adress - E-5, Gokhale Marg, C-Scheme
@@ -65,7 +69,3 @@ Adress - E-5, Gokhale Marg, C-Scheme
 Jaipur-302001 Rajasthan - INDIA.
 <br>
 Tel:- +91 1412372101 Mobile:-+91 9314149883
-<br>
-<a href="https://www.facebook.com/profile.php?id=100005243625519">Follow me on facebook</a>
-<br>
-<a href="https://twitter.com/TilakGitai">Follow me on twitter</a>
